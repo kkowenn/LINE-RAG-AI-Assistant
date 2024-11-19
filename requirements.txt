@@ -1,0 +1,5 @@
+flask
+requests
+openai
+pinecone-client[grpc]
+python-dotenv
