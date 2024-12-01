@@ -2,6 +2,11 @@
 
 ![Project Overview](assets/example.jpg)
 
+summary of the chatbot's abilities as demonstrated in the conversation:
+- Product Inquiry Handling: The chatbot can provide information and recommendations on Samsung products, including prices and features which from augument data (data.txt)
+- Product Reviews: It can give detailed reviews of specific products, highlighting key features and specifications.
+- Budget-Based Recommendations: The chatbot can suggest products within a given budget, offering options from various brands.
+
 This project, inspired by a workshop originally designed for Go, has been converted to Python for enhanced robustness and user-friendliness in conversational applications. It is about building a LINE chatbot integrated with a Retrieval-Augmented Generation (RAG) AI model, using Python and various libraries. If you want to learn more, please enroll in this course: [Workshop Link](https://www.eventpop.me/e/58009/workshop-building-bot-rag-go?fbclid=IwY2xjawGpeAxleHRuA2FlbQIxMQABHWxUbt5KuGgzGoJnRHruWdbS97flDKMbUz-n1LPy8WjMNtd5-hg8MNszuw_aem_ZRqI9GyWxzP2fzNACAfNqw).
 
 ### Example Workflow
