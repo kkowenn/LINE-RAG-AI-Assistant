@@ -2,7 +2,7 @@
 
 ![Project Overview](assets/example.jpg)
 
-summary of the example chatbot's abilities as demonstrated in the conversation:
+summary of the example chatbot's abilities as demonstrated in the conversation of the small thai online shop chatbot:
 - Product Inquiry Handling: The chatbot can provide information and recommendations on Samsung products, including prices and features which from augument data (data.txt)
 - Product Reviews: It can give detailed reviews of specific products, highlighting key features and specifications.
 - Budget-Based Recommendations: The chatbot can suggest products within a given budget, offering options from various brands.
